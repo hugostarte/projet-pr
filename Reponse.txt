@@ -1,0 +1,10 @@
+1) Ca va ? 
+Oe
+2) T'es qui ?
+Personne
+3) T'as pas un 06 ?
+nan 07
+4) Ta maman est libre ce soir  ?
+Non
+5) T'as fais la question 1 ?
+Quel question?
